@@ -50,7 +50,6 @@ pidfile
 
 ## Directory-based project format:
 .idea/
-.vscode/
 
 ## File-based project format:
 *.ipr
@@ -78,3 +77,4 @@ test.out
 .docker/**
 !**/.gitkeep
 .aider*
+config.bat
